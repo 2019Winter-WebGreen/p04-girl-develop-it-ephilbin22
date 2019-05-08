@@ -1,0 +1,43 @@
+/*
+* Emma Philbin
+* 7 May 2019
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+    /* background color in code */
+    background-color: #ffe6e6;
+}
+/* header alignment and color */
+header {text-align: center; background-color: #ff6666;}
+
+/* h1's text decoration and font */
+h1 {text-decoration: underline; font-family: cursive;}
+ 
+/* main's font type */
+main {font-family: sans-serif;}
+
+/* h2's text decoration and font */
+h2 {text-decoration: underline; font-family: cursive;}
+
+/* direction in which the images are floating  and their height and width */
+#trio {float: right; width: 300px; height: 250px;}
+#laptop {float: right; width: 300px; height: 250px;}
+
+/* link color and decoration */
+a:link {
+    color: blueviolet;
+    text-decoration: underline;}
+
+/* link color when being hovered over and size change as well */
+a:hover, a:focus {
+  color: fuchsia;
+  font-size: 140%;}
