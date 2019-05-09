@@ -1,6 +1,6 @@
 /*
 * Emma Philbin
-* 7 May 2019
+* 8 May 2019
 * Girl Develop It
 */
 
@@ -29,11 +29,12 @@ main {font-family: sans-serif;}
 h2 {text-decoration: underline; font-family: cursive;}
 
 /* direction in which the images are floating  and their height and width */
-#trio {float: right; width: 300px; height: 250px;}
-#laptop {float: right; width: 300px; height: 250px;}
+#trio {float: right; width: 300px; height: 215px;}
+#laptop {float: right; width: 300px; height: 215px;}
+footer {clear: both;}
 
 /* link color and decoration */
-a:link {
+a:link, a:visited {
     color: blueviolet;
     text-decoration: underline;}
 
